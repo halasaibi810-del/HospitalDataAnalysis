@@ -1,0 +1,9 @@
+PatientID,Age,Sex,BloodPressure,Cholesterol,Diagnosis
+1,45,Female,120,190,Normal
+2,60,Male,145,240,Hypertension
+3,35,Female,110,180,Normal
+4,50,Male,150,250,Hypertension
+5,28,Female,115,170,Normal
+6,67,Male,160,260,Hypertension
+7,42,Female,130,210,High Cholesterol
+8,55,Male,140,230,Hypertension
